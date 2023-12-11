@@ -1,0 +1,1 @@
+This repository is t explore Physics inspired newural networks and a learning repo.
